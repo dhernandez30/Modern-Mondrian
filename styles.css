@@ -31,12 +31,20 @@ body, html {
     background-color: blue;
 }
 
-.yellow {
-    background-color: yellow;
+.aquamarine {
+    background-color: aquamarine;
 }
 
 .black {
     background-color: black;
+}
+
+.magenta {
+    background-color: magenta;
+}
+
+.green {
+    background-color: green;
 }
 
 .right {
@@ -58,8 +66,55 @@ body, html {
     width: 100px;
 }
 
-#divider3 {
-    height: 10px;
-    width: 400px;
+.middlerow {
+    width: 10px;
+    height: 100px;
 }
 
+#divider3 {
+    width: 400px;
+    height: 10px;
+}
+
+#bottomrow {
+    height: 100px;
+}
+
+#bluebox {
+    width: 100px;
+    height: 100px;
+}
+
+#divider4 {
+    width: 10px;
+    height: 100px;
+}
+
+.left {
+    float: left;
+}
+
+#rectangle {
+    height: 100px;
+    width: 235px;
+}
+
+#divider5 {
+    width: 10px;
+    height: 100px;
+}
+
+#divider6 {
+    height: 10px;
+    width: 45px;
+}
+
+#smallbox {
+    height: 45px;
+    width: 45px;
+}
+
+#smallbox2 {
+    height:45px;
+    width: 45px;
+}
